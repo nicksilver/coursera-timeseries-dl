@@ -1,8 +1,5 @@
-# coursera-timeseries-dl
+# C4 - Sequences, Time Series and Prediction
 Coursera deep learning sequences and prediction course
-
-
-## C4 - Sequences, Time Series and Prediction
 
 ## Week 1
 
